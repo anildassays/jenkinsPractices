@@ -7,5 +7,6 @@ public class practices1Test {
 public void practices1() {
 		
 	System.out.println("hiii");
+	//hi
 }
 }
